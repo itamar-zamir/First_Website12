@@ -1,12 +1,12 @@
-# First_Website12
+<!-- # First_Website12
 My first github page
-<!DOCTYPE html>
+<!DOCTYPE html> -->
 <html>
 	<head>
-		<meta charset="UTF-8">
+		<!-- <meta charset="UTF-8">
 		<meta name="description" content="This is an awsome website">    <!-- The content sentence should be up to 160 characters -->
 		<meta name=”author” content=”Itamar”>
-		<meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+		<meta name=”viewport” content=”width=device-width, initial-scale=1.0”> -->
 
 		<title>My first website</title>
 	</head>
